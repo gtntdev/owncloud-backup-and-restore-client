@@ -1,0 +1,3 @@
+this is a little helper programm written in c++
+to be able to use it, cd into this directory and build it like this:
+g++ -o convert generate_config_off.cpp
