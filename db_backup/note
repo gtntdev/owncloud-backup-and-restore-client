@@ -1,0 +1,2 @@
+the db backups will be saved in this directory and named like:
+owncloud-'domain-short'-dbbackup_'timestamp'.bak

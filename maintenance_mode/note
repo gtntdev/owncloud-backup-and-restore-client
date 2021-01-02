@@ -1,0 +1,6 @@
+in this directory the two files for maintenance mode switching will be created and stored:
+1)config.php.off
+2)config.php.on
+
+note that for the second programm to be created the helper needs to be compiled before
+this version (1.0) assumes that the server is NOT in maintenace mode when the backup process is started!
